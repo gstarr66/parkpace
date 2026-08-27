@@ -36,6 +36,10 @@ yarn-error.*
 # personal/local Claude Code permission overrides
 .claude/settings.local.json
 
+# competitor app screenshots kept for design reference only — never commit
+# third-party copyrighted/trademarked imagery (see Claude.md Copyright rules)
+mydisneyexperience_screenshots/
+
 # typescript
 *.tsbuildinfo
 
