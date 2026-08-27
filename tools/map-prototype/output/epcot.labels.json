@@ -1,0 +1,737 @@
+[
+  {
+    "name": "America Gardens Theatre",
+    "kind": "theatre",
+    "area": 906
+  },
+  {
+    "name": "American Adventure Entertainment",
+    "kind": "",
+    "area": 204
+  },
+  {
+    "name": "American Adventure Storage Shed",
+    "kind": "",
+    "area": 114
+  },
+  {
+    "name": "Aqua Cell Life Support",
+    "kind": "",
+    "area": 236
+  },
+  {
+    "name": "Awesome Planet",
+    "kind": "attraction",
+    "area": 352
+  },
+  {
+    "name": "Bead Outpost",
+    "kind": "gift",
+    "area": 7
+  },
+  {
+    "name": "Block and Hans",
+    "kind": "fast_food",
+    "area": 20
+  },
+  {
+    "name": "Boathouse",
+    "kind": "",
+    "area": 575
+  },
+  {
+    "name": "British Revolution",
+    "kind": "bandstand",
+    "area": 33
+  },
+  {
+    "name": "Camera Centre",
+    "kind": "photo",
+    "area": 181
+  },
+  {
+    "name": "Canada Breakroom",
+    "kind": "",
+    "area": 292
+  },
+  {
+    "name": "Canada Far and Wide",
+    "kind": "attraction",
+    "area": 999
+  },
+  {
+    "name": "China Pavilion",
+    "kind": "",
+    "area": 3758
+  },
+  {
+    "name": "Choza de Margarita",
+    "kind": "pub",
+    "area": 51
+  },
+  {
+    "name": "Communicore Hall",
+    "kind": "",
+    "area": 1603
+  },
+  {
+    "name": "Communicore Hall",
+    "kind": "",
+    "area": 573
+  },
+  {
+    "name": "Cool Wash",
+    "kind": "ice_cream",
+    "area": 75
+  },
+  {
+    "name": "Creations Shop",
+    "kind": "gift",
+    "area": 2053
+  },
+  {
+    "name": "Crepes des Chefs de France",
+    "kind": "fast_food",
+    "area": 7
+  },
+  {
+    "name": "Disney Skyliner Station: Epcot-International Gateway",
+    "kind": "",
+    "area": 765
+  },
+  {
+    "name": "Disney Traders",
+    "kind": "gift",
+    "area": 276
+  },
+  {
+    "name": "Disney Vacation Club Information Center at Canada",
+    "kind": "information",
+    "area": 53
+  },
+  {
+    "name": "DVC Booth",
+    "kind": "kiosk",
+    "area": 8
+  },
+  {
+    "name": "El Ranchito del Norte",
+    "kind": "gift",
+    "area": 49
+  },
+  {
+    "name": "Entertainment Break",
+    "kind": "",
+    "area": 107
+  },
+  {
+    "name": "Epcot Cast Services",
+    "kind": "",
+    "area": 5084
+  },
+  {
+    "name": "Epcot Central Kitchens",
+    "kind": "cafe",
+    "area": 1676
+  },
+  {
+    "name": "Epcot Chefs",
+    "kind": "",
+    "area": 187
+  },
+  {
+    "name": "Epcot Entertainment",
+    "kind": "",
+    "area": 49
+  },
+  {
+    "name": "Epcot Merchandise",
+    "kind": "",
+    "area": 37
+  },
+  {
+    "name": "Epcot Power Services",
+    "kind": "",
+    "area": 2916
+  },
+  {
+    "name": "Epcot Production Services",
+    "kind": "",
+    "area": 5585
+  },
+  {
+    "name": "Epcot Security",
+    "kind": "police",
+    "area": 388
+  },
+  {
+    "name": "Espresso Coffee & Pastries",
+    "kind": "cafe",
+    "area": 17
+  },
+  {
+    "name": "Fertilizer Storage Building",
+    "kind": "",
+    "area": 158
+  },
+  {
+    "name": "Festivals Cooler",
+    "kind": "",
+    "area": 55
+  },
+  {
+    "name": "Festivals Prep Kitchen",
+    "kind": "",
+    "area": 887
+  },
+  {
+    "name": "Fife and Drum Tavern",
+    "kind": "fast_food",
+    "area": 27
+  },
+  {
+    "name": "France Breakroom",
+    "kind": "",
+    "area": 101
+  },
+  {
+    "name": "France Merchandise",
+    "kind": "",
+    "area": 70
+  },
+  {
+    "name": "France Office",
+    "kind": "",
+    "area": 206
+  },
+  {
+    "name": "France Pavilion ",
+    "kind": "attraction",
+    "area": 2
+  },
+  {
+    "name": "Frozen Royal Summerhus",
+    "kind": "attraction",
+    "area": 913
+  },
+  {
+    "name": "Garden Grill Cooler",
+    "kind": "",
+    "area": 45
+  },
+  {
+    "name": "Garden House",
+    "kind": "bar",
+    "area": 30
+  },
+  {
+    "name": "Gateway Gifts",
+    "kind": "gift",
+    "area": 172
+  },
+  {
+    "name": "Gateway Hut",
+    "kind": "",
+    "area": 109
+  },
+  {
+    "name": "Gateway Lockers",
+    "kind": "parcel_locker",
+    "area": 133
+  },
+  {
+    "name": "Gelati",
+    "kind": "ice_cream",
+    "area": 11
+  },
+  {
+    "name": "Germany Barn",
+    "kind": "",
+    "area": 256
+  },
+  {
+    "name": "Germany Break Trailer",
+    "kind": "",
+    "area": 72
+  },
+  {
+    "name": "Germany Management",
+    "kind": "",
+    "area": 34
+  },
+  {
+    "name": "Germany Pavilion",
+    "kind": "attraction",
+    "area": 3026
+  },
+  {
+    "name": "Germany Trailer",
+    "kind": "",
+    "area": 147
+  },
+  {
+    "name": "Glaskunst",
+    "kind": "gift",
+    "area": 22
+  },
+  {
+    "name": "Goju-no-to Pagoda",
+    "kind": "",
+    "area": 94
+  },
+  {
+    "name": "Golden Dreams Sailing Ship",
+    "kind": "yes",
+    "area": 46
+  },
+  {
+    "name": "Good Fortune Gifts",
+    "kind": "gift",
+    "area": 34
+  },
+  {
+    "name": "Guardians Of The Galaxy: Cosmic Rewind",
+    "kind": "roller_coaster",
+    "area": 12587
+  },
+  {
+    "name": "Imagination Pavilion",
+    "kind": "",
+    "area": 5589
+  },
+  {
+    "name": "Imagination Plaza Pretzels",
+    "kind": "fast_food",
+    "area": 17
+  },
+  {
+    "name": "Impressions de France;Beauty and the Beast Sing-Along",
+    "kind": "attraction",
+    "area": 901
+  },
+  {
+    "name": "Italy Merchandise",
+    "kind": "",
+    "area": 55
+  },
+  {
+    "name": "Italy Storage Shed 3",
+    "kind": "",
+    "area": 15
+  },
+  {
+    "name": "Japan Pavilion",
+    "kind": "",
+    "area": 4266
+  },
+  {
+    "name": "Japan Pavilion Office Plex",
+    "kind": "",
+    "area": 177
+  },
+  {
+    "name": "Japan Recieivng & Storage Building",
+    "kind": "",
+    "area": 173
+  },
+  {
+    "name": "Joffrey's Espresso Coffee and Pastries",
+    "kind": "fast_food",
+    "area": 14
+  },
+  {
+    "name": "Joffrey's Kiosk",
+    "kind": "",
+    "area": 10
+  },
+  {
+    "name": "Joffreys Coffee Shed",
+    "kind": "",
+    "area": 20
+  },
+  {
+    "name": "Joffreys Coffee Shed",
+    "kind": "",
+    "area": 28
+  },
+  {
+    "name": "Joy of Tea",
+    "kind": "beverages",
+    "area": 21
+  },
+  {
+    "name": "Kabuki Cafe",
+    "kind": "fast_food",
+    "area": 16
+  },
+  {
+    "name": "Katsura Grill",
+    "kind": "fast_food",
+    "area": 193
+  },
+  {
+    "name": "Kiosk East",
+    "kind": "gift",
+    "area": 40
+  },
+  {
+    "name": "Kiosk West",
+    "kind": "gift",
+    "area": 23
+  },
+  {
+    "name": "La Bottega Italiana",
+    "kind": "gift",
+    "area": 137
+  },
+  {
+    "name": "La Cantina de San Angel",
+    "kind": "fast_food",
+    "area": 73
+  },
+  {
+    "name": "La Crêperie de Paris",
+    "kind": "restaurant",
+    "area": 298
+  },
+  {
+    "name": "La Hacienda de San Angel",
+    "kind": "restaurant",
+    "area": 661
+  },
+  {
+    "name": "Le Cellier Steakhouse",
+    "kind": "restaurant",
+    "area": 110
+  },
+  {
+    "name": "Les Halles Boulangerie & Pâtisserie",
+    "kind": "fast_food",
+    "area": 245
+  },
+  {
+    "name": "Les Vins des Chefs de France",
+    "kind": "fast_food",
+    "area": 12
+  },
+  {
+    "name": "Lotus House",
+    "kind": "fast_food",
+    "area": 24
+  },
+  {
+    "name": "Magic Eye Theater",
+    "kind": "attraction",
+    "area": 1558
+  },
+  {
+    "name": "Mexico Pavilion",
+    "kind": "",
+    "area": 4214
+  },
+  {
+    "name": "Mission: SPACE",
+    "kind": "attraction",
+    "area": 3727
+  },
+  {
+    "name": "Mission: Space Project Trailer",
+    "kind": "",
+    "area": 205
+  },
+  {
+    "name": "Morocco Entertainment",
+    "kind": "",
+    "area": 51
+  },
+  {
+    "name": "Morocco Merchandise",
+    "kind": "",
+    "area": 99
+  },
+  {
+    "name": "Morocco Pole Barn",
+    "kind": "",
+    "area": 264
+  },
+  {
+    "name": "Morocco Tourism",
+    "kind": "",
+    "area": 112
+  },
+  {
+    "name": "Northwest Mercantile",
+    "kind": "gift",
+    "area": 191
+  },
+  {
+    "name": "Norway Pavilion",
+    "kind": "",
+    "area": 3848
+  },
+  {
+    "name": "Odyssey Center",
+    "kind": "",
+    "area": 3042
+  },
+  {
+    "name": "Operations Trailer",
+    "kind": "",
+    "area": 184
+  },
+  {
+    "name": "Pest Management Development",
+    "kind": "",
+    "area": 322
+  },
+  {
+    "name": "Port of Entry",
+    "kind": "gift",
+    "area": 271
+  },
+  {
+    "name": "Primavera Kitchen",
+    "kind": "fast_food",
+    "area": 9
+  },
+  {
+    "name": "Project Tomorrow: Inventing the Wonders of the Future",
+    "kind": "walk_through",
+    "area": 1538
+  },
+  {
+    "name": "Promenade Refreshments",
+    "kind": "fast_food",
+    "area": 28
+  },
+  {
+    "name": "Refreshment Cool Post",
+    "kind": "fast_food",
+    "area": 139
+  },
+  {
+    "name": "Refreshment Port",
+    "kind": "fast_food",
+    "area": 81
+  },
+  {
+    "name": "Remy’s Ratatouille Adventure",
+    "kind": "dark_ride",
+    "area": 3505
+  },
+  {
+    "name": "Restaurant Marrakesh",
+    "kind": "restaurant",
+    "area": 666
+  },
+  {
+    "name": "Rose & Crown Pub and Dining Room",
+    "kind": "restaurant",
+    "area": 493
+  },
+  {
+    "name": "Saint Mark's Campanelle",
+    "kind": "",
+    "area": 12
+  },
+  {
+    "name": "Seas Backwash Basins",
+    "kind": "",
+    "area": 607
+  },
+  {
+    "name": "Seas Life Support",
+    "kind": "aquarium",
+    "area": 197
+  },
+  {
+    "name": "Seas Nemo Support Shed",
+    "kind": "aquarium",
+    "area": 30
+  },
+  {
+    "name": "Seas Shark Holding Pool",
+    "kind": "aquarium",
+    "area": 399
+  },
+  {
+    "name": "Seas Support Building",
+    "kind": "",
+    "area": 355
+  },
+  {
+    "name": "Souvenirs de France",
+    "kind": "gift",
+    "area": 265
+  },
+  {
+    "name": "Space 220 Restaurant",
+    "kind": "restaurant",
+    "area": 1525
+  },
+  {
+    "name": "Spaceship Earth",
+    "kind": "dark_ride",
+    "area": 1495
+  },
+  {
+    "name": "Spice Road Table",
+    "kind": "restaurant",
+    "area": 439
+  },
+  {
+    "name": "Stave Church Gallery",
+    "kind": "gallery",
+    "area": 64
+  },
+  {
+    "name": "Swirled Showcase",
+    "kind": "ice_cream",
+    "area": 50
+  },
+  {
+    "name": "Taste Track",
+    "kind": "fast_food",
+    "area": 10
+  },
+  {
+    "name": "Test Track",
+    "kind": "slot_car",
+    "area": 5611
+  },
+  {
+    "name": "Test Track Vehicle Maintenance",
+    "kind": "",
+    "area": 480
+  },
+  {
+    "name": "The American Adventure",
+    "kind": "attraction",
+    "area": 4634
+  },
+  {
+    "name": "The Land Dry Storage Building",
+    "kind": "",
+    "area": 81
+  },
+  {
+    "name": "The Land Greenhouse",
+    "kind": "",
+    "area": 637
+  },
+  {
+    "name": "The Land Science",
+    "kind": "",
+    "area": 66
+  },
+  {
+    "name": "The Land Technology Building",
+    "kind": "",
+    "area": 286
+  },
+  {
+    "name": "The Mill Stage  L'ESTRADE DU MOULIN",
+    "kind": "theatre",
+    "area": 65
+  },
+  {
+    "name": "The Seas with Nemo & Friends",
+    "kind": "dark_ride",
+    "area": 7827
+  },
+  {
+    "name": "The Trap Room",
+    "kind": "",
+    "area": 201
+  },
+  {
+    "name": "Torii Gate",
+    "kind": "artwork",
+    "area": 27
+  },
+  {
+    "name": "TR P16",
+    "kind": "",
+    "area": 120
+  },
+  {
+    "name": "TR W163",
+    "kind": "",
+    "area": 145
+  },
+  {
+    "name": "TR W284",
+    "kind": "",
+    "area": 119
+  },
+  {
+    "name": "TR W402",
+    "kind": "",
+    "area": 47
+  },
+  {
+    "name": "Turkey Legs",
+    "kind": "fast_food",
+    "area": 17
+  },
+  {
+    "name": "Tutto Italia Ristorante",
+    "kind": "restaurant",
+    "area": 977
+  },
+  {
+    "name": "Urban Farm Eats",
+    "kind": "fast_food",
+    "area": 23
+  },
+  {
+    "name": "Vertigro Greenhouse",
+    "kind": "",
+    "area": 213
+  },
+  {
+    "name": "Via Napoli Ristorante e Pizzeria",
+    "kind": "restaurant",
+    "area": 835
+  },
+  {
+    "name": "Village Traders",
+    "kind": "gift",
+    "area": 16
+  },
+  {
+    "name": "Walt Disney Imagineering",
+    "kind": "",
+    "area": 109
+  },
+  {
+    "name": "Walt Disney Imagineering",
+    "kind": "",
+    "area": 1416
+  },
+  {
+    "name": "Walt Disney Imagineering",
+    "kind": "",
+    "area": 247
+  },
+  {
+    "name": "World Celebration Pin Traders",
+    "kind": "shelter",
+    "area": 13
+  },
+  {
+    "name": "World Celebration Pin Traders",
+    "kind": "shelter",
+    "area": 11
+  },
+  {
+    "name": "World Showplace Events Pavillion",
+    "kind": "",
+    "area": 4316
+  },
+  {
+    "name": "World Traveller",
+    "kind": "gift",
+    "area": 212
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "name": "ABC Commissary",
+    "kind": "restaurant",
+    "area": 3062
+  },
+  {
+    "name": "Alien Swirling Saucers",
+    "kind": "whip_ride",
+    "area": 2323
+  },
+  {
+    "name": "Anaheim Produce",
+    "kind": "fast_food",
+    "area": 97
+  },
+  {
+    "name": "Cast Costuming",
+    "kind": "",
+    "area": 4244
+  },
+  {
+    "name": "Cast Parking",
+    "kind": "parking",
+    "area": 9001
+  },
+  {
+    "name": "Catalina Eddie's",
+    "kind": "fast_food",
+    "area": 125
+  },
+  {
+    "name": "Chiller Energy Plant",
+    "kind": "",
+    "area": 2296
+  },
+  {
+    "name": "Concessions",
+    "kind": "fast_food",
+    "area": 101
+  },
+  {
+    "name": "Concessions",
+    "kind": "fast_food",
+    "area": 104
+  },
+  {
+    "name": "Crossroads of the World",
+    "kind": "gift",
+    "area": 72
+  },
+  {
+    "name": "Custodial Offices and Materials Storage",
+    "kind": "",
+    "area": 5177
+  },
+  {
+    "name": "Dinosaur Gertie's Ice Cream of Extinction",
+    "kind": "ice_cream",
+    "area": 58
+  },
+  {
+    "name": "Disney Junior Dance Party!",
+    "kind": "attraction",
+    "area": 1877
+  },
+  {
+    "name": "Disney Vacation Club Information Booth",
+    "kind": "information",
+    "area": 109
+  },
+  {
+    "name": "Disney's Hollywood Studios Cast Services",
+    "kind": "",
+    "area": 2931
+  },
+  {
+    "name": "Entertainment Consulting",
+    "kind": "",
+    "area": 3814
+  },
+  {
+    "name": "Fairfax Faire",
+    "kind": "fast_food",
+    "area": 130
+  },
+  {
+    "name": "Fantasmic",
+    "kind": "",
+    "area": 792
+  },
+  {
+    "name": "Feature Animation Building",
+    "kind": "",
+    "area": 10444
+  },
+  {
+    "name": "Groundskeeping and Holiday Decorations",
+    "kind": "",
+    "area": 1551
+  },
+  {
+    "name": "Guest Services",
+    "kind": "information",
+    "area": 90
+  },
+  {
+    "name": "Hollywood Scoops",
+    "kind": "ice_cream",
+    "area": 80
+  },
+  {
+    "name": "Hyperion Theater",
+    "kind": "theatre",
+    "area": 4160
+  },
+  {
+    "name": "Ice Cold",
+    "kind": "fast_food",
+    "area": 28
+  },
+  {
+    "name": "Imagineering",
+    "kind": "",
+    "area": 636
+  },
+  {
+    "name": "Indiana Jone Adventure Outpost",
+    "kind": "gift",
+    "area": 384
+  },
+  {
+    "name": "Indiana Jones Epic Stunt Spectacular!",
+    "kind": "stunt_show",
+    "area": 5862
+  },
+  {
+    "name": "Joffrey's Coffee",
+    "kind": "cafe",
+    "area": 25
+  },
+  {
+    "name": "Mickey and Minnie's Runaway Railway",
+    "kind": "dark_ride",
+    "area": 14493
+  },
+  {
+    "name": "Mickey Shorts Theater",
+    "kind": "film",
+    "area": 3511
+  },
+  {
+    "name": "Milk Stand",
+    "kind": "beverages",
+    "area": 28
+  },
+  {
+    "name": "Millennium Falcon: Smugglers Run",
+    "kind": "motion_simulator",
+    "area": 14434
+  },
+  {
+    "name": "Min and Bill's Dockside Diner",
+    "kind": "fast_food",
+    "area": 243
+  },
+  {
+    "name": "Oasis Canteen",
+    "kind": "ice_cream",
+    "area": 64
+  },
+  {
+    "name": "Oscar's Super Service",
+    "kind": "",
+    "area": 1967
+  },
+  {
+    "name": "Projector Tower North",
+    "kind": "",
+    "area": 18
+  },
+  {
+    "name": "Projector Tower South",
+    "kind": "",
+    "area": 31
+  },
+  {
+    "name": "Rock ’n’ Roller Coaster Starring The Muppets",
+    "kind": "roller_coaster",
+    "area": 12636
+  },
+  {
+    "name": "Rosie's All-American Café",
+    "kind": "fast_food",
+    "area": 340
+  },
+  {
+    "name": "Roundup Rodeo BBQ",
+    "kind": "restaurant",
+    "area": 2302
+  },
+  {
+    "name": "Sci-Fi Dine-In Theater",
+    "kind": "restaurant",
+    "area": 3091
+  },
+  {
+    "name": "Show Support and Management",
+    "kind": "",
+    "area": 2930
+  },
+  {
+    "name": "Sid Cahuenga's One-of-a-Kind",
+    "kind": "gift",
+    "area": 280
+  },
+  {
+    "name": "Slinky Dog Dash",
+    "kind": "roller_coaster",
+    "area": 3691
+  },
+  {
+    "name": "Star Tours: The Adventures Continue",
+    "kind": "motion_simulator",
+    "area": 5989
+  },
+  {
+    "name": "Star Wars: Rise of the Resistance",
+    "kind": "dark_ride",
+    "area": 17992
+  },
+  {
+    "name": "Starbucks",
+    "kind": "cafe",
+    "area": 472
+  },
+  {
+    "name": "Sunset Ranch Souvineers and Gifts",
+    "kind": "gift",
+    "area": 84
+  },
+  {
+    "name": "The Twilight Zone Tower of Terror",
+    "kind": "drop_tower",
+    "area": 3892
+  },
+  {
+    "name": "Theater of the Stars",
+    "kind": "attraction",
+    "area": 3623
+  },
+  {
+    "name": "Tie Echelon",
+    "kind": "",
+    "area": 134
+  },
+  {
+    "name": "Toy Story Mania!",
+    "kind": "dark_ride",
+    "area": 11730
+  },
+  {
+    "name": "Training Offices",
+    "kind": "",
+    "area": 2357
+  },
+  {
+    "name": "Unfairly Ever After",
+    "kind": "theatre",
+    "area": 2737
+  },
+  {
+    "name": "Voyage of the Little Mermaid",
+    "kind": "stage_show",
+    "area": 2484
+  },
+  {
+    "name": "Walt Disney Presents",
+    "kind": "walk_through",
+    "area": 6738
+  },
+  {
+    "name": "Walt Disney World Maintenance Base",
+    "kind": "",
+    "area": 4425
+  },
+  {
+    "name": "Water Chiller Plant",
+    "kind": "",
+    "area": 778
+  }
+]

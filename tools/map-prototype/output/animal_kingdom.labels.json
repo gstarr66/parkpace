@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Africa Hub Cart",
+    "kind": "gift",
+    "area": 7
+  },
+  {
+    "name": "Africa Train Station",
+    "kind": "",
+    "area": 259
+  },
+  {
+    "name": "Anandapur Royal Ice Cream Truck",
+    "kind": "ice_cream",
+    "area": 10
+  },
+  {
+    "name": "Aviary",
+    "kind": "animal",
+    "area": 501
+  },
+  {
+    "name": "Black Rhinoceros House",
+    "kind": "",
+    "area": 342
+  },
+  {
+    "name": "Boneyard Cart",
+    "kind": "gift",
+    "area": 6
+  },
+  {
+    "name": "Bongo House",
+    "kind": "",
+    "area": 191
+  },
+  {
+    "name": "Bradley Falls",
+    "kind": "gift",
+    "area": 11
+  },
+  {
+    "name": "Cheers 1",
+    "kind": "",
+    "area": 30
+  },
+  {
+    "name": "Cheers 2",
+    "kind": "",
+    "area": 28
+  },
+  {
+    "name": "Cheetah House",
+    "kind": "",
+    "area": 95
+  },
+  {
+    "name": "Chester & Hester's Dinosaur Treasures",
+    "kind": "gift",
+    "area": 125
+  },
+  {
+    "name": "Colors of Mo'ara",
+    "kind": "gift",
+    "area": 10
+  },
+  {
+    "name": "Conservation Station",
+    "kind": "",
+    "area": 453
+  },
+  {
+    "name": "Crocodile House",
+    "kind": "",
+    "area": 139
+  },
+  {
+    "name": "Dep 3",
+    "kind": "",
+    "area": 39
+  },
+  {
+    "name": "Dino Diner",
+    "kind": "fast_food",
+    "area": 13
+  },
+  {
+    "name": "Dino-Bite Snacks",
+    "kind": "ice_cream",
+    "area": 8
+  },
+  {
+    "name": "DinoLand Cart",
+    "kind": "gift",
+    "area": 8
+  },
+  {
+    "name": "DinoLand U.S.A. Service Station",
+    "kind": "gift",
+    "area": 17
+  },
+  {
+    "name": "Drinkwallah",
+    "kind": "fast_food",
+    "area": 17
+  },
+  {
+    "name": "Eight Spoon Cafe",
+    "kind": "fast_food",
+    "area": 7
+  },
+  {
+    "name": "Everest Cart",
+    "kind": "gift",
+    "area": 2
+  },
+  {
+    "name": "Everest Cart",
+    "kind": "kiosk",
+    "area": 5
+  },
+  {
+    "name": "Expedition Everest Train Shed",
+    "kind": "",
+    "area": 223
+  },
+  {
+    "name": "Female Hippopotamus House",
+    "kind": "",
+    "area": 505
+  },
+  {
+    "name": "Flame Tree Barbecue",
+    "kind": "fast_food",
+    "area": 306
+  },
+  {
+    "name": "Giraffe House",
+    "kind": "",
+    "area": 381
+  },
+  {
+    "name": "Giraffe House",
+    "kind": "",
+    "area": 226
+  },
+  {
+    "name": "Gorilla House",
+    "kind": "",
+    "area": 164
+  },
+  {
+    "name": "Harambe Fruit Market",
+    "kind": "fast_food",
+    "area": 14
+  },
+  {
+    "name": "Harambe Popcorn",
+    "kind": "fast_food",
+    "area": 9
+  },
+  {
+    "name": "Harambe Theatre",
+    "kind": "stage_show",
+    "area": 1632
+  },
+  {
+    "name": "Imagineering Offices",
+    "kind": "",
+    "area": 1808
+  },
+  {
+    "name": "Island Mercantile",
+    "kind": "gift",
+    "area": 528
+  },
+  {
+    "name": "Kali Cart",
+    "kind": "gift",
+    "area": 8
+  },
+  {
+    "name": "Kali River Rapids",
+    "kind": "river_rafting",
+    "area": 362
+  },
+  {
+    "name": "Kilimanjaro Safari Cart",
+    "kind": "gift",
+    "area": 7
+  },
+  {
+    "name": "Kilimanjaro Safaris",
+    "kind": "safari",
+    "area": 101
+  },
+  {
+    "name": "Lion House",
+    "kind": "",
+    "area": 227
+  },
+  {
+    "name": "Lion House",
+    "kind": "",
+    "area": 169
+  },
+  {
+    "name": "Maharajah Kiosk",
+    "kind": "gift",
+    "area": 12
+  },
+  {
+    "name": "Male Hippopotamus House",
+    "kind": "",
+    "area": 470
+  },
+  {
+    "name": "Mandala Gifts",
+    "kind": "gift",
+    "area": 15
+  },
+  {
+    "name": "Mariya's Souvenirs",
+    "kind": "gift",
+    "area": 17
+  },
+  {
+    "name": "Meerkat House",
+    "kind": "",
+    "area": 135
+  },
+  {
+    "name": "Monkey House",
+    "kind": "",
+    "area": 151
+  },
+  {
+    "name": "Mr. Kamal's",
+    "kind": "gift",
+    "area": 12
+  },
+  {
+    "name": "Okapi House",
+    "kind": "",
+    "area": 169
+  },
+  {
+    "name": "Parade Building",
+    "kind": "",
+    "area": 718
+  },
+  {
+    "name": "Pizzafari",
+    "kind": "fast_food",
+    "area": 481
+  },
+  {
+    "name": "Rafiki's Planet Watch",
+    "kind": "walk_through",
+    "area": 2121
+  },
+  {
+    "name": "Rainforest Cafe",
+    "kind": "restaurant",
+    "area": 1496
+  },
+  {
+    "name": "Rhino House",
+    "kind": "",
+    "area": 477
+  },
+  {
+    "name": "Royal Anandapur Tea Company",
+    "kind": "gift",
+    "area": 31
+  },
+  {
+    "name": "Savannah Animals House",
+    "kind": "",
+    "area": 84
+  },
+  {
+    "name": "Savannah Animals House",
+    "kind": "",
+    "area": 136
+  },
+  {
+    "name": "Savannah Animals House",
+    "kind": "",
+    "area": 528
+  },
+  {
+    "name": "Serka Zong Bazaar",
+    "kind": "gift",
+    "area": 162
+  },
+  {
+    "name": "Smiling Crocodile",
+    "kind": "fast_food",
+    "area": 12
+  },
+  {
+    "name": "Starbucks",
+    "kind": "cafe",
+    "area": 338
+  },
+  {
+    "name": "Tembo House",
+    "kind": "",
+    "area": 702
+  },
+  {
+    "name": "Terra Treats",
+    "kind": "fast_food",
+    "area": 7
+  },
+  {
+    "name": "The Feeding Ground",
+    "kind": "fast_food",
+    "area": 9
+  },
+  {
+    "name": "Theater In The Wild",
+    "kind": "stage_show",
+    "area": 1253
+  },
+  {
+    "name": "Theater in the Wild Cart",
+    "kind": "kiosk",
+    "area": 7
+  },
+  {
+    "name": "Thirsty River Bar & Trek Snacks",
+    "kind": "bar",
+    "area": 28
+  },
+  {
+    "name": "Tiffins",
+    "kind": "restaurant",
+    "area": 1075
+  },
+  {
+    "name": "Tiger House",
+    "kind": "",
+    "area": 162
+  },
+  {
+    "name": "Tree of Life",
+    "kind": "",
+    "area": 1007
+  },
+  {
+    "name": "Tree of Life Cart",
+    "kind": "gift",
+    "area": 10
+  },
+  {
+    "name": "Trilo-Bites",
+    "kind": "fast_food",
+    "area": 9
+  },
+  {
+    "name": "Upcountry",
+    "kind": "pub",
+    "area": 19
+  },
+  {
+    "name": "Warden Post",
+    "kind": "",
+    "area": 9
+  },
+  {
+    "name": "Warthog House",
+    "kind": "",
+    "area": 69
+  },
+  {
+    "name": "WAT Boma",
+    "kind": "",
+    "area": 36
+  },
+  {
+    "name": "Wildlife Express Trainshed",
+    "kind": "",
+    "area": 854
+  },
+  {
+    "name": "Yak & Yeti Restaurant",
+    "kind": "restaurant",
+    "area": 549
+  }
+]

@@ -1,0 +1,537 @@
+[
+  {
+    "name": "\"it's a small world\"",
+    "kind": "dark_ride",
+    "area": 4476
+  },
+  {
+    "name": "Aloha Isle Refreshments",
+    "kind": "ice_cream",
+    "area": 169
+  },
+  {
+    "name": "AVAC Equipment Control Building",
+    "kind": "",
+    "area": 99
+  },
+  {
+    "name": "AVAC Station",
+    "kind": "",
+    "area": 95
+  },
+  {
+    "name": "Be Our Guest Restaurant",
+    "kind": "restaurant",
+    "area": 1445
+  },
+  {
+    "name": "Belle's Cottage",
+    "kind": "",
+    "area": 129
+  },
+  {
+    "name": "Big Al's",
+    "kind": "",
+    "area": 12
+  },
+  {
+    "name": "Big Thunder Mountain Maintenance Shed",
+    "kind": "",
+    "area": 56
+  },
+  {
+    "name": "Big Thunder Mountain Railroad Train Shed",
+    "kind": "",
+    "area": 243
+  },
+  {
+    "name": "Big Top Souvenirs",
+    "kind": "gift",
+    "area": 875
+  },
+  {
+    "name": "Bonjour! Village Gifts",
+    "kind": "gift",
+    "area": 160
+  },
+  {
+    "name": "Break Room",
+    "kind": "",
+    "area": 99
+  },
+  {
+    "name": "Buzz Lightyear's Space Ranger Spin",
+    "kind": "dark_ride",
+    "area": 1862
+  },
+  {
+    "name": "Cambodian Temple",
+    "kind": "",
+    "area": 529
+  },
+  {
+    "name": "Casey Jr. RailRoad Mercantile",
+    "kind": "kiosk",
+    "area": 5
+  },
+  {
+    "name": "Castle Couture",
+    "kind": "clothes",
+    "area": 302
+  },
+  {
+    "name": "Cheshire Café",
+    "kind": "beverages",
+    "area": 335
+  },
+  {
+    "name": "Cinderella Castle",
+    "kind": "attraction",
+    "area": 667
+  },
+  {
+    "name": "City Hall - Guest Relations",
+    "kind": "information",
+    "area": 238
+  },
+  {
+    "name": "Columbia Harbor House",
+    "kind": "fast_food",
+    "area": 956
+  },
+  {
+    "name": "Cool Ship",
+    "kind": "beverages",
+    "area": 40
+  },
+  {
+    "name": "Country Bear Musical Jamboree",
+    "kind": "animatronic_show",
+    "area": 559
+  },
+  {
+    "name": "Critter Co-Op",
+    "kind": "gift",
+    "area": 283
+  },
+  {
+    "name": "Decorating Department",
+    "kind": "",
+    "area": 18
+  },
+  {
+    "name": "Disney Visa Kiosk",
+    "kind": "kiosk",
+    "area": 10
+  },
+  {
+    "name": "DVC Booth",
+    "kind": "",
+    "area": 38
+  },
+  {
+    "name": "DVC Kiosk",
+    "kind": "kiosk",
+    "area": 34
+  },
+  {
+    "name": "Enchanted Tales with Belle",
+    "kind": "interactive_show",
+    "area": 238
+  },
+  {
+    "name": "Energy Bytes",
+    "kind": "restaurant",
+    "area": 11
+  },
+  {
+    "name": "Fantasy Faire",
+    "kind": "gift",
+    "area": 222
+  },
+  {
+    "name": "Fantasyland Cast Support Building",
+    "kind": "",
+    "area": 381
+  },
+  {
+    "name": "Fantasyland Station",
+    "kind": "",
+    "area": 547
+  },
+  {
+    "name": "Foods Garage",
+    "kind": "",
+    "area": 377
+  },
+  {
+    "name": "Frontier Mercantile",
+    "kind": "gift",
+    "area": 83
+  },
+  {
+    "name": "Frontier Trading Post",
+    "kind": "gift",
+    "area": 63
+  },
+  {
+    "name": "Frontierland Station",
+    "kind": "",
+    "area": 407
+  },
+  {
+    "name": "Gaston's Tavern",
+    "kind": "fast_food",
+    "area": 205
+  },
+  {
+    "name": "Golden Oak Outpost",
+    "kind": "fast_food",
+    "area": 36
+  },
+  {
+    "name": "Great Goofini Maintenance Building",
+    "kind": "",
+    "area": 166
+  },
+  {
+    "name": "Harmony Barber Shop",
+    "kind": "hairdresser",
+    "area": 35
+  },
+  {
+    "name": "Heritage House",
+    "kind": "",
+    "area": 299
+  },
+  {
+    "name": "Joffrey's Revive",
+    "kind": "cafe",
+    "area": 55
+  },
+  {
+    "name": "Jungle Cruise",
+    "kind": "boat_ride",
+    "area": 291
+  },
+  {
+    "name": "Jungle Cruise Storage Dock",
+    "kind": "",
+    "area": 562
+  },
+  {
+    "name": "Jungle Navigatinon Co. LTD. Skipper Canteen",
+    "kind": "restaurant",
+    "area": 900
+  },
+  {
+    "name": "Liberty Tree Tavern",
+    "kind": "restaurant",
+    "area": 1241
+  },
+  {
+    "name": "Mad Tea Party",
+    "kind": "spinner",
+    "area": 374
+  },
+  {
+    "name": "Magic Kingdom Custodian Canopy",
+    "kind": "",
+    "area": 52
+  },
+  {
+    "name": "Magic Kingdom Operations",
+    "kind": "",
+    "area": 119
+  },
+  {
+    "name": "Magic Kingdom Paint Booth",
+    "kind": "",
+    "area": 103
+  },
+  {
+    "name": "Magic Kingdom Paint Shed",
+    "kind": "",
+    "area": 22
+  },
+  {
+    "name": "Magic Music Days Complex",
+    "kind": "",
+    "area": 202
+  },
+  {
+    "name": "Main Street Chamber of Commerce - Package Pickup",
+    "kind": "gift",
+    "area": 293
+  },
+  {
+    "name": "Main Street Station",
+    "kind": "",
+    "area": 769
+  },
+  {
+    "name": "Main Street Transportation Co.",
+    "kind": "kiosk",
+    "area": 8
+  },
+  {
+    "name": "Main Street Transportation Co.",
+    "kind": "kiosk",
+    "area": 10
+  },
+  {
+    "name": "Maintenance Building A",
+    "kind": "",
+    "area": 186
+  },
+  {
+    "name": "Maintenance Building B",
+    "kind": "",
+    "area": 445
+  },
+  {
+    "name": "Memento Mori",
+    "kind": "gift",
+    "area": 105
+  },
+  {
+    "name": "Mickey's PhillarMagic",
+    "kind": "film",
+    "area": 1734
+  },
+  {
+    "name": "MK Park 2 Annex",
+    "kind": "",
+    "area": 243
+  },
+  {
+    "name": "Monsters, Inc. Laugh Floor",
+    "kind": "interactive_show",
+    "area": 1462
+  },
+  {
+    "name": "Parade Engineering Administration",
+    "kind": "",
+    "area": 105
+  },
+  {
+    "name": "Parade Storage Building",
+    "kind": "",
+    "area": 3447
+  },
+  {
+    "name": "Parade Storage North",
+    "kind": "",
+    "area": 2438
+  },
+  {
+    "name": "Park 3 Marina",
+    "kind": "",
+    "area": 67
+  },
+  {
+    "name": "Pecos Bill Tale Tale Inn and Café",
+    "kind": "fast_food",
+    "area": 798
+  },
+  {
+    "name": "Pete's Silly Sideshow",
+    "kind": "meet_and_greet",
+    "area": 614
+  },
+  {
+    "name": "Peter Pan's Flight",
+    "kind": "dark_ride",
+    "area": 1241
+  },
+  {
+    "name": "Pirates of the Caribbean",
+    "kind": "dark_ride",
+    "area": 6446
+  },
+  {
+    "name": "Popcorn",
+    "kind": "fast_food",
+    "area": 32
+  },
+  {
+    "name": "Popcorn",
+    "kind": "fast_food",
+    "area": 38
+  },
+  {
+    "name": "Prairie Outpost & Supply",
+    "kind": "gift",
+    "area": 744
+  },
+  {
+    "name": "Prince Charming Regal Carrousel",
+    "kind": "carousel",
+    "area": 376
+  },
+  {
+    "name": "Prince Eric's Village Market",
+    "kind": "greengrocer",
+    "area": 92
+  },
+  {
+    "name": "Princess Fairytale Hall",
+    "kind": "meet_and_greet",
+    "area": 1095
+  },
+  {
+    "name": "Rapunzel's Tower",
+    "kind": "",
+    "area": 8
+  },
+  {
+    "name": "Sir Mickey's",
+    "kind": "gift",
+    "area": 262
+  },
+  {
+    "name": "Space Mountain",
+    "kind": "roller_coaster",
+    "area": 7066
+  },
+  {
+    "name": "Space Ranger Photos",
+    "kind": "photo",
+    "area": 152
+  },
+  {
+    "name": "Storybook Treats",
+    "kind": "ice_cream",
+    "area": 74
+  },
+  {
+    "name": "Sunshine Tree Terrace",
+    "kind": "ice_cream",
+    "area": 47
+  },
+  {
+    "name": "The Christmas Shoppe",
+    "kind": "gift",
+    "area": 249
+  },
+  {
+    "name": "The Diamond Horseshoe",
+    "kind": "restaurant",
+    "area": 360
+  },
+  {
+    "name": "The Friar's Nook",
+    "kind": "fast_food",
+    "area": 202
+  },
+  {
+    "name": "The Hall of Presidents",
+    "kind": "animatronic_show",
+    "area": 2059
+  },
+  {
+    "name": "The Haunted Mansion",
+    "kind": "dark_ride",
+    "area": 3233
+  },
+  {
+    "name": "The Haunted Mansion Line Queue",
+    "kind": "",
+    "area": 199
+  },
+  {
+    "name": "The Haunted Mansion Line Queue Weather & Sun Shelter",
+    "kind": "",
+    "area": 43
+  },
+  {
+    "name": "The Magic Carpets of Aladdin Operators Booth",
+    "kind": "",
+    "area": 13
+  },
+  {
+    "name": "The Many Adventures of Winnie the Pooh",
+    "kind": "dark_ride",
+    "area": 1469
+  },
+  {
+    "name": "The Seven Dwarf's Cottage",
+    "kind": "",
+    "area": 74
+  },
+  {
+    "name": "The Walt Disney Cast Theatre",
+    "kind": "",
+    "area": 263
+  },
+  {
+    "name": "Tomorrowland Launch Depot",
+    "kind": "gift",
+    "area": 447
+  },
+  {
+    "name": "Tomorrowland Speedway Maintenance Building",
+    "kind": "",
+    "area": 234
+  },
+  {
+    "name": "Tomorrowland Terrace Restaurant",
+    "kind": "fast_food",
+    "area": 1964
+  },
+  {
+    "name": "Tony's Town Square Restaurant",
+    "kind": "restaurant",
+    "area": 522
+  },
+  {
+    "name": "Torre del Cielo",
+    "kind": "",
+    "area": 10
+  },
+  {
+    "name": "TRON Lightcycle / Run",
+    "kind": "roller_coaster",
+    "area": 7390
+  },
+  {
+    "name": "Under the Sea: Journey of the Little Mermaid",
+    "kind": "dark_ride",
+    "area": 2074
+  },
+  {
+    "name": "Walt Disney Imagineering",
+    "kind": "",
+    "area": 318
+  },
+  {
+    "name": "Walt Disney Imagineering Trailer",
+    "kind": "",
+    "area": 62
+  },
+  {
+    "name": "Walt Disney's Carousel of Progress",
+    "kind": "animatronic_show",
+    "area": 2551
+  },
+  {
+    "name": "Walt Disney's Enchanted Tiki Room",
+    "kind": "animatronic_show",
+    "area": 740
+  },
+  {
+    "name": "Water Treatment Plant #2",
+    "kind": "",
+    "area": 13
+  },
+  {
+    "name": "West Foods Storage Area",
+    "kind": "",
+    "area": 114
+  },
+  {
+    "name": "Westward Ho!",
+    "kind": "fast_food",
+    "area": 32
+  }
+]
