@@ -15,6 +15,7 @@ export type LiveDataEntry = {
     startTime: string;
     endTime: string;
   }[];
+  lastUpdated?: string;
 };
 
 type LiveDataResponse = {

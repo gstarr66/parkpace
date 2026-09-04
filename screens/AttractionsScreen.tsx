@@ -6,11 +6,13 @@ import ScreenHeader from '../components/ScreenHeader';
 import ParkPicker from '../components/ParkPicker';
 import { useSelectedPark } from '../context/ParkContext';
 import { useLiveData } from '../hooks/useLiveData';
+import { useFreshness } from '../hooks/useFreshness';
 import { LiveDataEntry } from '../lib/themeparksApi';
 
 export default function AttractionsScreen() {
   const { selectedPark } = useSelectedPark();
   const { data, loading, refreshing, error, refresh } = useLiveData(selectedPark);
+  const freshness = useFreshness(data);
 
   const attractions = data
     .filter((entry) => entry.entityType === 'ATTRACTION')
@@ -38,6 +40,10 @@ export default function AttractionsScreen() {
       <ScreenHeader title={selectedPark.name} subtitle="Live wait times" />
       <ParkPicker />
 
+      {freshness && !loading && !error && (
+        <Text style={styles.freshness}>Updated {freshness}</Text>
+      )}
+
       {loading ? (
         <View style={styles.centered}>
           <ActivityIndicator size="large" color="#4B2E83" />
@@ -64,6 +70,13 @@ const styles = StyleSheet.create({
   safeArea: {
     flex: 1,
     backgroundColor: '#FFFFFF',
+  },
+  freshness: {
+    fontSize: 12,
+    color: '#8A8A99',
+    textAlign: 'right',
+    paddingHorizontal: 16,
+    paddingTop: 10,
   },
   list: {
     padding: 16,
